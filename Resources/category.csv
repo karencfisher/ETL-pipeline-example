@@ -1,10 +1,10 @@
 category_id,category
-cat1,music
-cat2,publishing
-cat3,food
+cat1,food
+cat2,music
+cat3,journalism
 cat4,technology
-cat5,journalism
-cat6,film & video
-cat7,theater
-cat8,photography
+cat5,theater
+cat6,photography
+cat7,publishing
+cat8,film & video
 cat9,games
